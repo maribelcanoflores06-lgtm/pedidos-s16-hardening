@@ -1,0 +1,10 @@
+﻿# SECURITY BASELINE
+2026-10-06T22:11:40.4592280-05:00
+SHA=58eb739e9f7004dd090030c78caef615b3ab954c
+## LISTENERS
+(nota Windows: ss no existe; listeners de lab se completan en Cloud Shell / Postgres)
+## ENTORNO
+hostname=DESKTOP-M2ENJEU
+user=MARIBEL
+repo=C:/Users/MARIBEL/Documents/pedidos-s16-hardening
+branch=lab/s16-equipo-01
